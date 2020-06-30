@@ -1,0 +1,57 @@
+h1{
+    font-size: 50px;
+    color:rebeccapurple;
+    font-family: 'Notable', sans-serif;
+}
+h2{
+    font-size: 45px;
+    color:mediumspringgreen;
+    font-family: 'Notable', sans-serif;
+}
+h3{ 
+    font-family: 'MuseoModerno', cursive;
+    color: olive;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 3%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+section{
+    height: 500px;
+}
+    
+body{
+    margin: 0cm;
+
+}
+.link{
+   text-decoration: none;
+   color: whitesmoke;
+   background-image: linear-gradient(45deg,orange,red);
+   padding:10px 20px;
+   border-radius: 4px;
+}
+.last{
+    
+    box-shadow: 10x 40px 60px olive;
+    padding: 10px 40px;
+    margin: 60px 70px;
+    border-left: 7px;
+    border-image: linear-gradient(180deg,olive,salmon);
+
+    border-radius: 6%;
+    height: 40%;
+}
+footer{
+    color:rgb(225, 188, 65);
+    
+} 
